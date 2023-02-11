@@ -7,4 +7,8 @@ ljsdhbfgkjsbg
 
 Change from github
 
+conflict from github
+
+conflict from github
+
 cobflict from desktop
